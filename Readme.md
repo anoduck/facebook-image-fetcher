@@ -86,4 +86,4 @@ If anybody is interested in working on developing this library, fork and feel fr
 
 ## License
 
-[MIT License](https://github.com/ankitaggarwal011/CNN-Image-Processing/blob/master/LICENSE)
+[MIT License](https://github.com/ankitaggarwal011/facebook-image-fetcher/blob/master/LICENSE)
