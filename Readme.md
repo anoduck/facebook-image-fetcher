@@ -14,7 +14,7 @@ http://graph.facebook.com/picture?id=ankit&width=800
 ```
 This url will redirect to the full-size profile image of the username "ankit".
 
-This module written in python will provide a simple API or direct usuage to fetch any number of full-size facebook profile images of users either mentioned as range of user-ids or a text file containing newline separated usernames. 
+This module written in python will provide a simple API or direct usage to fetch any number of full-size facebook profile images of users either mentioned as range of user-ids or a text file containing newline separated usernames. 
 
 ## Motivation
 
@@ -75,7 +75,7 @@ Function for get profile images of userids or usernames specified in the given f
 
 #### id1 is the starting userid, Type: Integer.
 #### id2 is the ending userid, Type: Integer.
-#### filename is the text file containing userids and usernames seperated by newline, Type: String.
+#### filename is the text file containing userids and usernames separated by newline, Type: String.
 
 
 ## Contributors
